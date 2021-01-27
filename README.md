@@ -1,5 +1,6 @@
 # e-commerce
 UX
+
 This is full stack project. I created website called 'kiwi' that allows user to manage his own e-shop . The purpose of the website is to give users more control over his website where he can create categories, products and inventories as needed  , the idea of this website is to be fully dynamic so it can be used for any e-commerce  business .
 
 As a user you can:
@@ -15,9 +16,8 @@ add star rating system of each product
 add review system of each product
 contact the shop by live chat
 
-WIREFRAMES
-FEATURES
 Existing features
+
 register page - allow new user to register to the website
 login page - allow user to login to the website to ba able to purchase products and access to the blog
 navbar - created to navigate to particular page: login, register, profile, Cart, blog - when logged in. For smaller devices the navbar collapse into burger icon.
@@ -34,6 +34,8 @@ checkout page
 add tracking order system
 
 TECHNOLOGIES USED
+
+
 Bootstrap 
 JQuery - to assist the bootsrap
 Fontawesome
