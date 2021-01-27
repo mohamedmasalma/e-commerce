@@ -37,13 +37,23 @@ TECHNOLOGIES USED
 
 
 Bootstrap 
+
 JQuery - to assist the bootsrap
+
 Fontawesome
+
 Frond-End Technologies
+
 HTML - to create basic structure
+
 CSS - to add styles to the websites
+
 Back-End Technologies
+
 laravel framework
+
 php
+
 jquery
+
 mysql
